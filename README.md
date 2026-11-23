@@ -1,4 +1,4 @@
-> **stable-baselines3-telepath** is a fork of [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3) (MIT) that adds `BatchDQN` for offline reinforcement learning. It is used by [telepath-core](https://github.com/pathway/telepath-core).
+> **This repo is a fork of legacy [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3), for compatibility with [telepath-core](https://github.com/pathway/telepath-core).** It adds `BatchDQN` for offline reinforcement learning. It is not kept in step with current Stable-Baselines3.
 
 <img src="docs/\_static/img/logo.png" align="right" width="40%"/>
 
